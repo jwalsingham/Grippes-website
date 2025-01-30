@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grippe's Contracting / Grippe's Property Management</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Grippe's Contracting / Grippe's Property Management</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#products">Products</a></li>
+                <li><a href="#contact">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home">
+        <h2>Welcome to Grippe's Contracting</h2>
+        <p>Your trusted partner in home remodeling and quality building materials.</p>
+    </section>
+
+    <section id="about">
+        <h2>About Us</h2>
+        <p>We are a local, family-owned general contracting company based in Frankfort, NY. With years of experience, we specialize in home remodeling and offer a wide range of building materials and home goods at discounted prices.</p>
+    </section>
+
+    <section id="services">
+        <h2>Our Services</h2>
+        <ul>
+            <li>General Contracting</li>
+            <li>Home Remodeling</li>
+            <li>Property Management</li>
+            <li>Flooring Installation</li>
+            <li>Cabinet Refinishing</li>
+        </ul>
+    </section>
+
+    <section id="products">
+        <h2>Our Products</h2>
+        <p>We offer a variety of home remodeling products, including:</p>
+        <ul>
+            <li>Luxury Vinyl Plank (LVP) Flooring</li>
+            <li>Building Materials</li>
+            <li>Home Goods</li>
+        </ul>
+        <p>Visit us at 2237 Broad St, Frankfort, NY to explore our products.</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Address: 2237 Broad St, Frankfort, NY</p>
+        <p>Phone: [Insert Phone Number]</p>
+        <p>Email: [Insert Email Address]</p>
+        <p>Follow us on Facebook: <a href="https://www.facebook.com/Grippescontracting/">Grippe's Contracting / Grippe's Property Management</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Grippe's Contracting / Grippe's Property Management. All rights reserved.</p>
+    </footer>
+</body>
+</html>
